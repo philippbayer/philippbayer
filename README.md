@@ -2,7 +2,7 @@
 
 I use computers to learn how plant genomes tick.
 
-- 🔭 I’m currently working on pangenomic, genomic selection, models of gene birth and death in Brassicaceae, and the applications of machine learning in selection.
+- 🔭 I’m currently working on pangenomics, genomic prediction, models of gene birth and death in Brassicaceae, and the applications of machine learning in genomics. My study species are most crops, so Brassicaceae and Triticaceae.
 - 👯 I’m looking to collaborate on anything computational that you might need help with, as long as there's an interesting biological story attached! Machine learning, large scale (pan)genomics, genome-wide association studies, haplotype calling, genome assembly, annotation, I've done a bit
 - 📫 How to reach me: twitter.com/philippbayer is probably fastest. if not, my uni email which is philippDOTbayerATuwaDOTeduDOTau
 - 😄 Pronouns: he/him
