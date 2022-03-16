@@ -8,6 +8,7 @@ I use computers to learn how plant genomes tick.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: most crops we rely on (bread wheat, canola, coffee, cotton, strawberry, etc.) are allopolyploids, that means that their cells contain a bunch of genomes from two or more ancestral species (canola: 2 genomes, bread wheat: 3 genomes). We humans have only one genome, *boring*
 
+[![Philipp's GitHub stats](https://github-readme-stats.vercel.app/api?username=philippbayer)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **philippbayer/philippbayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
