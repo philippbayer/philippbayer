@@ -6,7 +6,7 @@ I use computers to learn how genomes work.
 - 👯 I'm always happy to chat *anything* interpretable ML, especially applied to sequencing data (genomes/reads)!
 - 📫 How to reach me: twitter.com/philippbayer is probably fastest. if not, my uni email which is philippDOTbayerATuwaDOTeduDOTau
 - 😄 Pronouns: he/him
-- ⚡ Fun fact a): most crops we rely on (bread wheat, canola, coffee, cotton, strawberry, etc.) are allopolyploids, that means that their cells contain a bunch of genomes from two or more ancestral species (canola: 2 genomes, bread wheat: 3 genomes). We humans have only one genome, *boring*. Fun fact b):
+- ⚡ Fun fact: most crops we rely on (bread wheat, canola, coffee, cotton, strawberry, etc.) are allopolyploids, that means that their cells contain a bunch of genomes from two or more ancestral species (canola: 2 genomes, bread wheat: 3 genomes). We humans have only one genome, *boring*.
 
 [![Philipp's GitHub stats](https://github-readme-stats.vercel.app/api?username=philippbayer)](https://github.com/anuraghazra/github-readme-stats)
 
