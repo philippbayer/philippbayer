@@ -2,9 +2,9 @@
 
 I use computers to learn how genomes work.
 
-- 🔭 I’m currently working on interpretable ML around environmental DNA (eDNA) from  Western Australia's oceans. Hopefully soon I will have models which tell me which WA ocean areas are healthy, which areas show more diversity than expected, and which ones need help!
+- 🔭 I’m currently working on bioinformatics/interpretable AI around drug discovery and drug approval with PYC in Perth. 
 - 👯 I'm always happy to chat *anything* interpretable ML, especially applied to sequencing data (genomes/reads)!
-- 📫 How to reach me: https://genomic.social/@philippbayer is probably fastest. if not, my Minderoo email is pbayerATminderooDOTorg
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/philipp-bayer-93398b43/e) is probably fastest. 
 - 😄 Pronouns: he/him
 - 💬 I regularly blog at https://philippbayer.github.io/blerg/
 - ⚡ Fun fact: most crops we rely on (bread wheat, canola, coffee, cotton, strawberry, etc.) are allopolyploids, that means that their cells contain a bunch of genomes from two or more ancestral species (canola: 2 genomes, bread wheat: 3 genomes). We humans have only one genome, *boring*.
